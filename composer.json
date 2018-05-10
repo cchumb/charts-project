@@ -1,0 +1,27 @@
+{
+   "name":"cchumb/chartsProject",
+   "type":"library",
+   "description":"Charts Project",
+   "keywords":[
+      "chart"
+   ],
+   "license":"MIT",
+   "authors":[
+      {
+         "name":"cchumb",
+         "role":"Developer"
+      }
+   ],
+   "support":{
+      "source":"https://github.com/cchumb/chartsProject",
+      "issues":"https://github.com/cchumb/chartsProject/issues"
+   },
+   "require":{
+      "php":"^7.0"
+   },
+   "autoload":{
+      "psr-4":{
+         "cchumb\\chartsProject\\":"src"
+      }
+   }
+}
