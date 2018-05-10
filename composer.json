@@ -1,5 +1,5 @@
 {
-   "name":"cchumb/chartsProject",
+   "name":"cchumb/charts-project",
    "type":"library",
    "description":"Charts Project",
    "keywords":[
@@ -13,15 +13,15 @@
       }
    ],
    "support":{
-      "source":"https://github.com/cchumb/chartsProject",
-      "issues":"https://github.com/cchumb/chartsProject/issues"
+      "source":"https://github.com/cchumb/charts-project",
+      "issues":"https://github.com/cchumb/charts-project/issues"
    },
    "require":{
       "php":"^7.0"
    },
    "autoload":{
       "psr-4":{
-         "cchumb\\chartsProject\\":"src"
+         "cchumb\\charts-project\\":"src"
       }
    }
 }
